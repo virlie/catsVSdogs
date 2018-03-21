@@ -1,0 +1,20 @@
+.jumbotron {
+  font-family: cursive;
+  text-align: center;
+  margin: 10px;
+  padding: 30px;
+}
+
+#loki-fred {
+  width:300px;
+  height:auto;
+}
+
+.col-md-6 img {
+  width:100%;
+  height: auto;
+}
+
+p {
+  display:none;
+}
